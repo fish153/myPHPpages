@@ -1,0 +1,6 @@
+Mary Smith logged IN on Tuesday, December 17  at 02:39:11 client IP: 24.10.12.36
+Mary Smith logged OUT on Tuesday, December 17  at02:39:56
+Dude Dude logged IN on Tuesday, December 17  at 02:46:40 client IP: 24.10.12.36
+Dude Dude logged OUT on Tuesday, December 17  at02:48:04
+Dude Dude logged IN on Tuesday, December 17  at 09:05:24 client IP: 50.8.158.77
+Dude Dude logged OUT on Tuesday, December 17  at09:07:35

@@ -1,0 +1,243 @@
+body {
+	background-Color: #96A8C8;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	display: block;
+	margin: 8px 8px 8px 8px;
+}
+.red {
+	color: red;
+}
+.blue {
+	color: blue;
+}
+.dice {
+	float: left;
+
+}
+.alert {
+	color: red;
+}
+img.dice{
+	height: 100px;
+	width: 100px;
+}
+.top {
+	margin-left: auto;
+	margin-right: auto;
+	width: 71%;
+	height: 150px;
+}
+.topTable {
+	margin-top: 20px;
+	background-color: white;
+	padding: 17px;
+	margin-left:  auto;
+	margin-right: auto;
+	width: 80%;
+	height: auto;
+	border-radius: 25px;
+	overflow: hidden;
+}
+
+.topLeft {
+	text-align: center;
+	background-color: white;
+	width: 30%;
+	float: left;
+	color: grey;
+	border-radius: 25px;
+	height: 150px;
+}
+
+.topRight {
+	float: right;
+	background-color: white;
+	width: 68%;
+	border-radius: 25px;
+	height: 150px;
+}
+
+
+.middle {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background-color: white;
+	padding: 17px;
+	margin-left:  auto;
+	margin-right: auto;
+	width: 70%;
+	height: 400px;
+	border-radius: 25px;
+}
+.midLeft {
+	float: left;
+}
+.midRight {
+	float: right;
+	width: 300px;
+	padding: 30px;
+}
+.bottom {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background-color: white;
+	padding: 17px;
+	margin-left:  auto;
+	margin-right: auto;
+	width: 70%;
+	min-height: 400px;
+	height: auto;
+	border-radius: 25px;
+}
+.botLeft {
+	float: left;
+	width: 30%;
+	height: 300px;
+}
+.bot1 {
+	float: left;
+	width: 30%;
+	height: 300px;
+}
+.botRight {
+	float: right;
+	width: 30%;
+	height: 300px;
+	margin-right: 50px;
+
+}
+.bot2 {
+	float: right;
+	width: 30%;
+	height: 300px;
+	margin-right: 50px;
+
+}
+.column1 {
+	width: 9em;
+}
+.column2 {
+	width: 5em;
+}
+.contrast {
+	background-color: #FFFFCC;
+}
+.name {
+	text-align: center;
+	border-bottom: 1px dotted #000000;
+	border-top: 1px dotted #000000;
+	font-family: "Didot", "Didot LT STD", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 2.5em;
+	font-style: italic;
+	font-weight: 800;
+	color: grey;
+	text-shadow: 2px 2px #F0F0F0 ;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.date {
+	padding-top: 50px;
+	font-weight: 900;
+}
+.time {
+	padding-top: 10px;
+}
+a:link {
+	color: #FF0000;
+}
+a:hover {
+	color: #FF00FF;
+}
+a:active {
+	color: #0000FF;
+}
+span {
+	display: block;
+	color: grey;
+}
+span.alert{
+	color: red;
+}
+table {
+	margin-left: 10px;
+	float: left;
+	border-collapse: collapse;
+	border: 0px;
+}
+th {
+	background-color: gold;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: brown;
+	text-align: left;
+	margin-left: 20px;
+	padding-left: 17px;
+}
+td {
+	padding-left: 17px;
+}
+img {
+	width: 300px;
+	height: 300px;
+}
+img.ico{
+	width: 20px;
+	height: 20px;
+}
+img.repeat {
+	width: 50px;
+	height: 50px;
+}
+
+h1 {
+	padding-left: 10px;
+	color: #888888 
+}
+h2 {
+	text-align: center;
+	color: grey;
+}
+p {
+	padding-left: 10px;
+}
+.cookie {
+    display: inline;
+    float: left;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+}
+.cookie10 {
+    font-size: 50px;
+    display: inline;
+    float: left;
+    width: 60px;
+    height: 60px;
+
+}
+.cookie100 {
+    display: inline;
+    float: left;
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+}
+.dig {
+    position: absolute;
+    color: white;
+}
+img.cookie {
+
+    z-index: -10;
+}
+input.cookie  {
+    margin-top: 0px;
+    width: 30px;
+    height: 30px;
+}
+input {
+    margin-top: 15px;
+}
+
+

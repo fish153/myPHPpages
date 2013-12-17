@@ -1,0 +1,40 @@
+body {background-color: #C1EDBC; 
+	font-family: Georgia;
+	margin-right: 30px;
+	margin-left: 30px;
+	color: #C1EDBC
+	}
+
+table {background-color: #C1EDBC; table-layout: fixed; width: auto; }
+td {background-color: #266A1D; vertical-align: top;}
+.maintb {width: auto; height: 100%;}
+.logobar {background-image: url(graphics/logox.jpe); height: 100px;}
+.c {width: 28px; height: 28px;}
+.m {height: 28px; width: auto;}
+
+.inttable {text-align: center; }
+.inttable tr{vertical-align: top; width: 90%; }
+.int2 {width: 90%; margin-left: auto; margin-right: auto; background-color: #266A1D; }
+.int2 td { border-style: double; border-color: #895200;}
+
+.content {padding-left: 10px; padding-right: 10px;}
+
+a:link {color: white;}
+a:visited {color: #CC9900}
+a:hover {background-color: #7C1300; color: #E5cb67; }
+a:active {color: crimson;}
+
+h1 {	color: #C1EDBC; font-size: 25pt;}
+h3 { color: white; font-size: 18pt; border-style: double; border-color: #895200; }
+h5 {font-size: 10pt; margin-top: 0px; margin-bottom: 0px; padding-left: 10px;}
+p {margin-left: 20px; margin-right: 20px; text-indent: 40px;}
+
+h4 {	color: #C1EDBC; 
+	font-size: 8pt; margin-top: 0px; margin-bottom: 0px; text-align: right;}
+
+
+
+dt {font-weight: 900; 
+	font-size: 13pt; 
+	color:gold; }
+dd {text-indent: 20px;}
